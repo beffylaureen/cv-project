@@ -7,7 +7,7 @@ export default function User(props){
 
   return(
     <>
-    <h1>{props.name}</h1>
+   {/*<h1>{props.name}</h1>*/}
       <div>
         <p>
             After a number of years in Brokerage Operations, I am persuing a new career in web development.
