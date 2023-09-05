@@ -18,6 +18,8 @@
 .navbar_link {
   text-decoration: none;
   color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
   padding: 10px;
 }
 
